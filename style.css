@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    color: green;
+    padding:20px;
+}
+mav{
+    background-color:limegreen;
+    display: flex;
+    place-items: center;
+}
